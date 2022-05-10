@@ -1,5 +1,7 @@
 # jkosai.github.io
 
+<img src="blockie.png">
+
 ## Description
 Jessica's portfolio page, developed using Bootstrap in accordance with MIT xPro standards.
 
